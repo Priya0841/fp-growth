@@ -32,7 +32,7 @@ streamlit run interactive_tool.py
 
 | File                | Description                          |
 |---------------------|--------------------------------------|
-| data.csv            | Example dataset for testing          |
+| dataset.csv         | Example dataset for testing          |
 | interactive_tool.py | Main Streamlit app                   |
 | requirements.txt    | List of Python dependencies          |
 
